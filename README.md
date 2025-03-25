@@ -10,8 +10,8 @@ This project analyzes e-commerce sales data to extract key business insights usi
 It provides an interactive dashboard for visualizing sales trends, customer behavior, and product performance.
 
 
-**🚀 Key Insights
-**
+**🚀 Key Insights**
+
 
 🔹 Sales trends across different time periods
 
