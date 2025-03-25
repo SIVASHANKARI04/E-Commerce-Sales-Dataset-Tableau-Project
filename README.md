@@ -2,7 +2,7 @@
 **📊 E-Commerce Sales Analysis - Tableau Project**
 
 
-📌 Overview
+**📌 Overview**
 
 
 This project analyzes e-commerce sales data to extract key business insights using Tableau.    
@@ -10,27 +10,36 @@ This project analyzes e-commerce sales data to extract key business insights usi
 It provides an interactive dashboard for visualizing sales trends, customer behavior, and product performance.
 
 
-🚀 Key Insights
-
+**🚀 Key Insights
+**
 
 🔹 Sales trends across different time periods
+
 🔹 Best-selling products and categories
+
 🔹 Customer purchase behavior analysis
+
 🔹 Regional sales performance
+
 🔹 Revenue and profit distribution
 
-🛠 Tools & Technologies
+
+**🛠 Tools & Technologies**
+
+
 Tableau – Data visualization
 
 Excel/CSV – Data preprocessing
 
-📸 Dashboard Preview
-(Include screenshots of your Tableau dashboard here)
 
-📂 Dataset
+**📂 Dataset**
+
 The dataset contains transaction details, including order date, product category, customer demographics, and revenue.
 
-📈 Results & Business Impact
+
+**📈 Results & Business Impact**
+
+
 Identified peak sales periods for better inventory planning
 
 Improved marketing strategies based on customer insights
